@@ -1,0 +1,2 @@
+# SNSapplication
+Swift練習用のSNSアプリケーションです
